@@ -8,5 +8,6 @@ end
 
 get '/hometown' do
 "My name is #{hometown}"
+end
 
 end
