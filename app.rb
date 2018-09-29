@@ -6,9 +6,9 @@ class App < Sinatra::Base
     "My name is #{name}"
   end
 
-  get '/hometown' do
-    "My name is #{hometown}"
-  end
-end
+  # get '/hometown' do
+  #   "My name is #{hometown}"
+  # end
+
 
 end
